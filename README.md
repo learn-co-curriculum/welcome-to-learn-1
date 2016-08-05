@@ -10,7 +10,7 @@ On another level, programming is awesome because learn enough and you can become
 
 Learning to code is going to be hard. That's okay though because it's not impossible, just hard, that's all. And I find that often in life the hard things are the things worth doing. 
 
-As you struggle and overcome challenges you're going to discover new parts of yourself: skills and talents you might never have known you had; you'll find a new delight in solving problems and the ability to find yourself when you're lost. Within you there is a never ending supply of strength and grit just waiting to be unlucked. 
+As you struggle and overcome challenges you're going to discover new parts of yourself: skills and talents you might never have known you had; you'll find a new delight in solving problems and the ability to find yourself when you're lost. Within you there is a never ending supply of strength and grit just waiting to be unlocked. 
 
 And learning these aspects of yourself is perhaps the most valuable part of learning to code. You'll see, with just a little bit of focus and the help of our community here on Learn, you're going to surprise yourself and realize that you're capable of anything.
 
@@ -25,3 +25,5 @@ On the right of this lesson you'll find the "I'm Done" button, click it and the 
   <em>Sample of the buttons you should click to proceed.</em>
 </p>
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-1'>Programming is Awesome</a> on Learn.co and start learning to code for free.</p>
