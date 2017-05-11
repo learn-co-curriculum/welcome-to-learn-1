@@ -21,7 +21,7 @@ Our goal with Learn.co is to take all the elements that make our in-person educa
 On the right of this lesson you'll find the "I'm Done" button, click it and the "Next Lesson" button will appear allowing you to proceed.
 
 <p>
-  <img src="http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/doneandnext.png" align="center" style="margin: 0 auto; text-align: center"></br>
+  <img src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/doneandnext.png" align="center" style="margin: 0 auto; text-align: center"></br>
   <em>Sample of the buttons you should click to proceed.</em>
 </p>
 
