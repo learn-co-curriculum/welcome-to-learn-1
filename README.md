@@ -1,4 +1,4 @@
-# Welcome To Learn - Programming is Awesome
+* > ****# Welcome To Learn - Programming is Awesome
 
 I'm Avi Flombaum, co-founder of Flatiron School, the creators of Learn.co, our online learning platform. It is my pleasure to welcome you on your journey to learn to code. Together we're going to change your life.
 
